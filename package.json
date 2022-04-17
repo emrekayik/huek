@@ -1,0 +1,10 @@
+{
+  "name": "hueEK",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emre Kayık",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
